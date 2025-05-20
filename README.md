@@ -1,11 +1,9 @@
 # advanced-Nepali-law-chatbot-Qdrant
-This project aims to make the Constitution of Nepal more accessible through an intuitive RAG chatbot. By combining powerful LLMs (OpenAI), vector search (Qdrant), and intelligent text processing (LangChain), it allows anyone to ask questions and get direct, context-aware answers from the official document. Below are some of the console outputs.
+This project aims to make the Constitution of Nepal more accessible through an intuitive RAG chatbot. By combining powerful LLMs (OpenAI), vector search (Qdrant), and intelligent text processing (LangChain), it allows anyone to ask questions and get direct, context-aware answers from the official document. This version includes features such as chat history for conversational context, metadata (page number) sourcing for answer validation, and robust handling of out-of-scope questions.
+Below are some of the console outputs.
 ![Screenshot 2025-05-21 000728](https://github.com/user-attachments/assets/2ac4cc81-4dd7-4fb7-b20a-b33c0d75e834)
 ![Screenshot 2025-05-21 000713](https://github.com/user-attachments/assets/b0e2ef10-c330-4b2d-ab88-69036810a591)
 
-
-
-This version includes features such as chat history for conversational context, metadata (page number) sourcing for answer validation, and robust handling of out-of-scope questions.
 
 ## Features
 
