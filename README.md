@@ -119,7 +119,7 @@ The original question and the retrieved context are passed to an OpenAI LLM (e.g
 The LLM generates an answer based only on the provided context.
 Chat history is maintained to allow for follow-up questions.
 
-#### Future Enhancements (Ideas)
+# Future Enhancements (Ideas)
 
 -Integration with a web interface (e.g., Streamlit, Gradio, Flask).
 -Support for more advanced retrieval strategies (e.g., MMR, HyDE).
